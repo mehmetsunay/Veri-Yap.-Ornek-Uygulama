@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\bin\Debug\net5.0\ConsoleAppVeriUyg.exe
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\bin\Debug\net5.0\ConsoleAppVeriUyg.deps.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\bin\Debug\net5.0\ConsoleAppVeriUyg.runtimeconfig.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\bin\Debug\net5.0\ConsoleAppVeriUyg.runtimeconfig.dev.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\bin\Debug\net5.0\ConsoleAppVeriUyg.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\bin\Debug\net5.0\ref\ConsoleAppVeriUyg.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\bin\Debug\net5.0\ConsoleAppVeriUyg.pdb
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ConsoleAppVeriUyg.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ConsoleAppVeriUyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ConsoleAppVeriUyg.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ConsoleAppVeriUyg.AssemblyInfo.cs
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ConsoleAppVeriUyg.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ConsoleAppVeriUyg.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ref\ConsoleAppVeriUyg.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ConsoleAppVeriUyg.pdb
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppVeriUyg\obj\Debug\net5.0\ConsoleAppVeriUyg.genruntimeconfig.cache
